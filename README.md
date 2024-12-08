@@ -28,7 +28,7 @@ This repository provides the implementation, the necessary instructions, and exa
 
 The Python version of the utility can be used in two ways:
 
-#### Option 1: `python compute.py <threshold> <limit>  <  <input.txt>
+#### Option 1: `python compute.py <threshold> <limit>  <  <input.txt>`
 
 
 #### Option 2: `compute` (Unix Shebang)
